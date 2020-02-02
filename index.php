@@ -107,8 +107,9 @@
 		<div class="footer">
 			<h1 style="color: #000; padding-top: 30px; text-align: center;">Copy right 2019 - By Iqrar Bangash</h1>
 		</div>
-	</div>
 
+	</div>
+	
 	<!--  Main Container End -->
 	<!--  Main Container End -->
 
